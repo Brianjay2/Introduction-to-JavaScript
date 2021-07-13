@@ -19,6 +19,12 @@ Do the following:
 
    HINT: no function required
 */
+const votingAge = 18;
+if(votingAge >=18){
+  console.log(true);
+}else{
+  console.log(false);
+}
 
 
 
@@ -32,6 +38,13 @@ Do the following:
 
    HINT: no function required
 */
+var firstName = "";
+var lastName = "Ogembo";
+if(SecondName ==="Ogembo"){
+  firstName ==="jeremiah";
+}
+
+
 
 
 
